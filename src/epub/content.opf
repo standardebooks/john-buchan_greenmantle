@@ -41,9 +41,13 @@
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/559</meta>
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/559</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The story of a chase through war-torn Europe to prevent an uprising during the First World War.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Greenmantle&lt;/i&gt; is the second of John Buchan’s to feature Richard Hannay, a Scottish intelligence office in the Bristish army and as such is the sequel to &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;. First published in 1916, it is the first of two novels, featuring Richard Hannay, which is set during the First World War.&lt;/p&gt;
+			&lt;p&gt;The book gives the account of Hannay and his associates separate journeys through war-torn Europe to Constantinople where they are to thwart an uprising which is set to thrown the Middle East, India and North Africa into disarray, chaning the course of the war.&lt;/p&gt;
+			&lt;p&gt;The book was popular when first published and although it has never been made into a film, the director Alfred Hitchcock was said to prefer &lt;i&gt;Greenmantle&lt;/i&gt;to &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;, and considered filming it on several occasions.&lt;/p&gt;		
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/559</dc:source>
