@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-buchan/greenmantle</dc:identifier>
 		<dc:date>2019-03-01T19:12:44Z</dc:date>
-		<meta property="dcterms:modified">2019-03-01T19:12:44Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2019-03-04T20:58:06Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,7 +45,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Greenmantle&lt;/i&gt; is the second of John Buchan’s novels to feature Richard Hannay, a Scottish intelligence office in the British army, and as such is the sequel to &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;The book gives the account of Hannay and his associate’s separate journeys through war-torn Europe to Constantinople thwart an uprising that is poised to throw the Middle East, India, and North Africa into disarray, changing the course of the war.&lt;/p&gt;
+			&lt;p&gt;The book gives the account of Hannay and his associate’s separate journeys through war-torn Europe to Constantinople to thwart an uprising that is poised to throw the Middle East, India, and North Africa into disarray, changing the course of the war.&lt;/p&gt;
 			&lt;p&gt;The book was popular when first published and although it has never been made into a film, the director Alfred Hitchcock was said to prefer &lt;i&gt;Greenmantle&lt;/i&gt; to &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;, and considered filming it on several occasions.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
