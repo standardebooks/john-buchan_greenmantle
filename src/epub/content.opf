@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Greenmantle</dc:title>
 		<meta property="file-as" refines="#title">Greenmantle</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Fiction</dc:subject>
@@ -34,20 +34,23 @@
 		<dc:subject id="subject-3">Spy stories</dc:subject>
 		<dc:subject id="subject-4">Hannay, Richard (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Intelligence service -- Great Britain -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/559</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/559</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/559</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/559</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/559</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008113819</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85145220</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85127066</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008121384</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008104773</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The story of a chase through war-torn Europe to prevent an uprising during the First World War.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Greenmantle&lt;/i&gt; is the second of John Buchan’s novels to feature Richard Hannay, a Scottish intelligence office in the British army, and as such is the sequel to &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;The book gives the account of Hannay and his associate’s separate journeys through war-torn Europe to Constantinople to thwart an uprising that is poised to throw the Middle East, India, and North Africa into disarray, changing the course of the war.&lt;/p&gt;
 			&lt;p&gt;The book was popular when first published and although it has never been made into a film, the director Alfred Hitchcock was said to prefer &lt;i&gt;Greenmantle&lt;/i&gt; to &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;, and considered filming it on several occasions.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/559</dc:source>
 		<dc:source>https://archive.org/details/greenmantle00buchgoog</dc:source>
