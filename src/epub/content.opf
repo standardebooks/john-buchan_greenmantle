@@ -48,6 +48,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="belongs-to-collection" id="collection-1">Richard Hannay</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">The story of a chase through war-torn Europe to prevent an uprising during the First World War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Greenmantle&lt;/i&gt; is the second of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; novels to feature Richard Hannay, a Scottish intelligence office in the British army, and as such is the sequel to &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
