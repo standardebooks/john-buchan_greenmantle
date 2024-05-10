@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/559</dc:source>
 		<dc:source>https://archive.org/details/greenmantle00buchgoog</dc:source>
 		<meta property="se:word-count">100165</meta>
-		<meta property="se:reading-ease.flesch">81.53</meta>
+		<meta property="se:reading-ease.flesch">81.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Greenmantle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_greenmantle</meta>
 		<dc:creator id="author">John Buchan</dc:creator>
