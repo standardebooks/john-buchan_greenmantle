@@ -69,8 +69,8 @@
 		<meta property="file-as" refines="#author">Buchan, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Buchan</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045167</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jean Baptiste Vanmour</dc:contributor>
 		<meta property="file-as" refines="#artist">Vanmour, Jean Baptiste</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean_Baptiste_Vanmour</meta>
