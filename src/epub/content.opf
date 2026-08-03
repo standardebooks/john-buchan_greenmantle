@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-buchan/greenmantle</dc:identifier>
 		<dc:date>2019-03-01T19:12:44Z</dc:date>
@@ -53,12 +53,12 @@
 		<meta id="collection-2" property="belongs-to-collection">The Crime Writers’ Association Top 100 Crime Novels of All Time</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">91</meta>
-		<dc:description id="description">The story of a chase through war-torn Europe to prevent an uprising during the First World War.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The story of a chase through war-torn Europe to prevent an uprising during the First World War.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Greenmantle&lt;/i&gt; is the second of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; novels to feature Richard Hannay, a Scottish intelligence office in the British army, and as such is the sequel to &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;The book gives the account of Hannay and his associate’s separate journeys through war-torn Europe to Constantinople to thwart an uprising that is poised to throw the Middle East, India, and North Africa into disarray, changing the course of the war.&lt;/p&gt;
 			&lt;p&gt;The book was popular when first published and although it has never been made into a film, the director Alfred Hitchcock was said to prefer &lt;i&gt;Greenmantle&lt;/i&gt; to &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;, and considered filming it on several occasions.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/559</dc:source>
 		<dc:source>https://archive.org/details/greenmantle00buchgoog</dc:source>
